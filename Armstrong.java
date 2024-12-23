@@ -12,7 +12,7 @@ public class Armstrong {
 			n=n/10;
 		}
 		if(temp==sum) 
-			System.out.println(armstrong);
+			
 			System.out.println(temp + "  is a armstrong number");
 		
 		else 
